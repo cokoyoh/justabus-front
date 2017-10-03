@@ -17,7 +17,7 @@
 
 <script>
     export default {
-        
+
     }
 </script>
 
@@ -27,7 +27,7 @@
         height: 500px
         width: 100%
         text-align: center
-        background-image: url("../../../images/background/pexels-photo.jpg")
+        background-image: url("../../../images/background/justabus-background.jpg")
         background-position: center
         background-repeat: no-repeat
         background-size: cover

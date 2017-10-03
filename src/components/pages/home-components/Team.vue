@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 wow fadeInLeft" data-wow-delay="1.8s">
                     <img src="../../../../src/images/team/team-member-1.jpg" alt="" class="img-circle">
-                    <h4 class="wow fadeInUp">Ken Mwenda</h4>
+                    <h4 class="wow fadeInUp">Justus Bus</h4>
                     <b>Founder & CEO</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing
                         elit.</p>
@@ -26,7 +26,7 @@
                 <div class="col-lg-3 col-md-3 wow fadeInLeft" data-wow-delay="0.8s">
                     <img src="../../../../src/images/team/team-member-1.jpg" alt="" class="img-circle">
                     <h4 class="wow fadeInUp">Foo Bar</h4>
-                    <b>Junior Developer</b>
+                    <b>Sales & Marketing</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing
                         elit.</p>
                     <a href="https://www.facebook.com/charles.okoyoh/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -36,7 +36,7 @@
                 <div class="col-lg-3 col-md-3 wow fadeInLeft" data-wow-delay="0.4s">
                     <img src="../../../../src/images/team/team-member-2.jpg" alt="" class="img-circle">
                     <h4 class="wow fadeInUp">Abc Xyz</h4>
-                    <b>Junior Developer</b>
+                    <b>Liaison Officer</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing
                         elit.</p>
                     <a href="https://www.facebook.com/charles.okoyoh/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>

@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <p><i class="fa fa-home" aria-hidden="true"></i> 123, Westlands </p>
-                    <p><i class="fa fa-envelope" aria-hidden="true"></i> info@sharper.net</p>
-                    <p><i class="fa fa-globe" aria-hidden="true"> www.sharper-innovations.co.ke</i></p>
+                    <p><i class="fa fa-envelope" aria-hidden="true"></i> info@justabus.com</p>
+                    <p><i class="fa fa-globe" aria-hidden="true"> www.justabus.com</i></p>
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <h3 class="unique-footer">Social Media</h3>
@@ -14,7 +14,7 @@
                     <i class="social fa fa-linkedin" aria-hidden="true"></i>
                     <i class="social fa fa-pinterest" aria-hidden="true"></i> <br> <br>
                     <p class="myfooter">Copyright <i class="fa fa-copyright" aria-hidden="true"></i>
-                        {{this.getYear()}}. Sharper
+                        {{this.getYear()}}. Justabus
                     </p>
                 </div>
             </div>
