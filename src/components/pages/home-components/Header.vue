@@ -8,7 +8,7 @@
             <b>
                 Donec luctus egestas massa vitae scelerisque. Quisque non velit tincidunt, blandit nisl at, rhoncus lorem.
             </b> <br> <br>
-            <router-link to="/all-projects">
+            <router-link to="/">
                 <button class="btn-clear btn btn-lg btn-default">Explore Available Options</button>
             </router-link>
         </div>
