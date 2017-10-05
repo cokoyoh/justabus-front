@@ -83,7 +83,7 @@
                         console.log(response)
                         if(response.status === 200){
                             swal('Success',response.body.message,'success')
-                            this.$router.push('/')
+                            this.$router.push('/contact-us')
                         }
                     })
             }

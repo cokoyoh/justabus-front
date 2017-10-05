@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4">
                     <div class="panel panel-default">
-                        <div class="panel-heading"><h4>Admin Details</h4></div>
+                        <div class="panel-heading"><h4>User Details</h4></div>
                         <div class="panel-body">
                             <user-details></user-details>
                         </div>
